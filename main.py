@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # Step 1: Load the image
 
-image = cv2.imread('original_images/example.jpg')
+image = cv2.imread('example.jpg')
 
 
 
